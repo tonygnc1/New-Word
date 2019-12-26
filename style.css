@@ -1,0 +1,54 @@
+.body {
+    width: 1000px;
+    /* height: 50px; */
+    margin-left: 200px;
+}
+
+
+.box {
+    display: inline-block;
+    padding: 10px;
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 20px 0px 0px 0px;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.message {
+    font-size: 2em;
+    margin: 10px 0px 25px 310px;
+}
+
+button {
+    font-size: 1.5em;
+    margin: 5px 0px 0px 365px;
+    background-color: green;
+    color: white;
+}
+
+button1 {
+    width: 75px;
+    height: 40px;
+    padding: 5px;
+    font-size: 1.5em;
+    margin: 30px 0px 0px 550px;
+    background-color:red;
+    border: solid 1px black;
+    color:white;
+}
+
+.message1{
+    font-size: 2em;
+    margin: 0px 0px 30px 310px;
+
+}
+
+.message2{
+    font-size: 2em;
+    margin-left: 0px 0px 30px 290px;
+}
